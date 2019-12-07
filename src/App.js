@@ -1,26 +1,26 @@
 import React from 'react';
-import logo from './logo.svg';
+
+import {
+  HashRouter, Route, Switch, NavLink,
+} from 'react-router-dom';
+
 import './App.css';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+const App = () => (
+  <HashRouter>
+    <div className="app">
+      <nav>
+      <Route className="nav-link" exact to="/">Главная</Route>
+      <Route className="nav-link" exact to="/contacts">Контакты</Route>
+      <Route className="nav-link" exact to="/profile">Профиль</Route>
+      <Route className="nav-link" exact to="/autorise">Форма</Route>
+      </nav>
+     </div>
+     {/* <Switch>
+        <Route exact path="/" component={HomePage} />
+        <Route path="/tabs/:tabId?" component={TabsPage} />
+      </Switch> */}
+  </HashRouter>
+);
 
 export default App;
