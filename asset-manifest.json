@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shark.git/static/css/main.7019cbf6.chunk.css",
+    "main.js": "/shark.git/static/js/main.63648ea9.chunk.js",
+    "main.js.map": "/shark.git/static/js/main.63648ea9.chunk.js.map",
+    "runtime-main.js": "/shark.git/static/js/runtime-main.687c50a2.js",
+    "runtime-main.js.map": "/shark.git/static/js/runtime-main.687c50a2.js.map",
+    "static/js/2.26ac2a10.chunk.js": "/shark.git/static/js/2.26ac2a10.chunk.js",
+    "static/js/2.26ac2a10.chunk.js.map": "/shark.git/static/js/2.26ac2a10.chunk.js.map",
+    "index.html": "/shark.git/index.html",
+    "precache-manifest.92a3183b786e4a498f9b062cb7d67345.js": "/shark.git/precache-manifest.92a3183b786e4a498f9b062cb7d67345.js",
+    "service-worker.js": "/shark.git/service-worker.js",
+    "static/css/main.7019cbf6.chunk.css.map": "/shark.git/static/css/main.7019cbf6.chunk.css.map",
+    "static/js/2.26ac2a10.chunk.js.LICENSE": "/shark.git/static/js/2.26ac2a10.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.687c50a2.js",
+    "static/js/2.26ac2a10.chunk.js",
+    "static/css/main.7019cbf6.chunk.css",
+    "static/js/main.63648ea9.chunk.js"
+  ]
+}
