@@ -4,22 +4,24 @@ import {
   HashRouter, Route, Switch, NavLink,
 } from 'react-router-dom';
 
+import Contacts from  './components/Contacts/Contacts';
+import HomePage from  './components/HomePage/HomePage';
 import './App.css';
 
 const App = () => (
   <HashRouter>
     <div className="app">
       <nav>
-      <Route className="nav-link" exact to="/">Главная</Route>
-      <Route className="nav-link" exact to="/contacts">Контакты</Route>
-      <Route className="nav-link" exact to="/profile">Профиль</Route>
-      <Route className="nav-link" exact to="/autorise">Форма</Route>
+      <NavLink className="nav-link" to="/">Главная</NavLink>
+      <NavLink className="nav-link" exact to="/contacts">Контакты</NavLink>
+      <NavLink className="nav-link" exact to="/profile">Профиль</NavLink>
+      <NavLink className="nav-link" exact to="/autorise">Форма</NavLink>
       </nav>
      </div>
-     {/* <Switch>
+      <Switch>
         <Route exact path="/" component={HomePage} />
-        <Route path="/tabs/:tabId?" component={TabsPage} />
-      </Switch> */}
+        <Route path="/contacts" component={Contacts} />
+      </Switch> 
   </HashRouter>
 );
 
