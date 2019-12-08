@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/shark.git/static/css/main.7019cbf6.chunk.css",
-    "main.js": "/shark.git/static/js/main.63648ea9.chunk.js",
-    "main.js.map": "/shark.git/static/js/main.63648ea9.chunk.js.map",
+    "main.css": "/shark.git/static/css/main.b39e80d5.chunk.css",
+    "main.js": "/shark.git/static/js/main.62d4256a.chunk.js",
+    "main.js.map": "/shark.git/static/js/main.62d4256a.chunk.js.map",
     "runtime-main.js": "/shark.git/static/js/runtime-main.687c50a2.js",
     "runtime-main.js.map": "/shark.git/static/js/runtime-main.687c50a2.js.map",
-    "static/js/2.26ac2a10.chunk.js": "/shark.git/static/js/2.26ac2a10.chunk.js",
-    "static/js/2.26ac2a10.chunk.js.map": "/shark.git/static/js/2.26ac2a10.chunk.js.map",
+    "static/js/2.cefe3cae.chunk.js": "/shark.git/static/js/2.cefe3cae.chunk.js",
+    "static/js/2.cefe3cae.chunk.js.map": "/shark.git/static/js/2.cefe3cae.chunk.js.map",
     "index.html": "/shark.git/index.html",
-    "precache-manifest.92a3183b786e4a498f9b062cb7d67345.js": "/shark.git/precache-manifest.92a3183b786e4a498f9b062cb7d67345.js",
+    "precache-manifest.d2ae4494ec94dbef176bf981af88d3ef.js": "/shark.git/precache-manifest.d2ae4494ec94dbef176bf981af88d3ef.js",
     "service-worker.js": "/shark.git/service-worker.js",
-    "static/css/main.7019cbf6.chunk.css.map": "/shark.git/static/css/main.7019cbf6.chunk.css.map",
-    "static/js/2.26ac2a10.chunk.js.LICENSE": "/shark.git/static/js/2.26ac2a10.chunk.js.LICENSE"
+    "static/css/main.b39e80d5.chunk.css.map": "/shark.git/static/css/main.b39e80d5.chunk.css.map",
+    "static/js/2.cefe3cae.chunk.js.LICENSE": "/shark.git/static/js/2.cefe3cae.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.687c50a2.js",
-    "static/js/2.26ac2a10.chunk.js",
-    "static/css/main.7019cbf6.chunk.css",
-    "static/js/main.63648ea9.chunk.js"
+    "static/js/2.cefe3cae.chunk.js",
+    "static/css/main.b39e80d5.chunk.css",
+    "static/js/main.62d4256a.chunk.js"
   ]
 }

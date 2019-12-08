@@ -1,1 +1,0 @@
-{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,UACE,YAAa,CACb,eAAgB,CAChB,4BAA6B,CAC7B,WACF,CAEA,UACA,gBACA","file":"main.7019cbf6.chunk.css","sourcesContent":[".tab-list {\n  display: flex;\n  list-style: none;\n  justify-content: space-around;\n  width: 250px;\n}\n\n.nav-link {\nmargin-left: 20px;\n}\n"]}
